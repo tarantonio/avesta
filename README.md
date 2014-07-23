@@ -4,6 +4,7 @@ Avesta
 open source old school server
 
 Based on Avesta rev. 9.4.2012 (April 2012)
+Credits on initial release go to: https://code.google.com/p/avesta74/
 
 Protocols: 7.4, 7.6 & 7.7
 
