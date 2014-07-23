@@ -11,12 +11,12 @@ The default protocol is 7.4
 For 7.6 compile with definition __PROTOCOL_76__
 For 7.7 compile with definition __PROTOCOL_77__
 
-Revnetsys
+### Revnetsys
 
 Redesigned IO model using asynchronous sockets (Boost::asio)
 
 
-Revbattlesys
+### Revbattlesys
 
 New Formula of Armor/Defense
 Weapons configurable in XML and Lua
@@ -35,7 +35,7 @@ Soul Points
 Last Writer of letters
 
 
-Revdbsys
+### Revdbsys
 
 XML as database removed
 Code cleaned up
@@ -47,7 +47,7 @@ Code optimization
 GCC 4.2 compatibility
 
 
-And
+### And
 
 Skull System
 Party System
