@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<weapons>
+    <!-- Ammunations -->
+        <distance id="2545" script="poison_arrow.lua"/>
+        <distance id="2546" script="explosive_arrow.lua"/>
+        <distance id="2547" function="default"/>	
+        <distance id="2543" function="default"/>
+
+
+    <!-- Weapons -->
+        <melee id="2413" function="internalLoadWeapon"/>
+        <melee id="2377" function="internalLoadWeapon"/>
+        <melee id="2392" function="internalLoadWeapon"/>
+        <melee id="2407" function="internalLoadWeapon"/>
+        <melee id="2438" function="internalLoadWeapon"/>
+        <melee id="2446" function="internalLoadWeapon"/>
+        <melee id="2393" function="internalLoadWeapon"/>
+        <melee id="2400" function="internalLoadWeapon"/>
+        <melee id="2408" function="internalLoadWeapon"/>
+        <melee id="2390" function="internalLoadWeapon"/>
+
+        <melee id="2429" function="internalLoadWeapon"/>
+        <melee id="2435" function="internalLoadWeapon"/>
+        <melee id="2425" function="internalLoadWeapon"/>
+        <melee id="2430" function="internalLoadWeapon"/>
+        <melee id="2387" function="internalLoadWeapon"/>
+        <melee id="2381" function="internalLoadWeapon"/>
+        <melee id="2440" function="internalLoadWeapon"/>
+        <melee id="2426" function="internalLoadWeapon"/>
+        <melee id="2432" function="internalLoadWeapon"/>
+        <melee id="2447" function="internalLoadWeapon"/>
+        <melee id="2427" function="internalLoadWeapon"/>
+        <melee id="2414" function="internalLoadWeapon"/>
+        <melee id="2454" function="internalLoadWeapon"/>
+
+        <melee id="2443" function="internalLoadWeapon"/>
+        <melee id="2431" function="internalLoadWeapon"/>
+        <melee id="2415" function="internalLoadWeapon"/>
+
+        <melee id="2423" function="internalLoadWeapon"/>
+        <melee id="2434" function="internalLoadWeapon"/>
+        <melee id="2436" function="internalLoadWeapon"/>
+        <melee id="2445" function="internalLoadWeapon"/>
+        <melee id="2391" function="internalLoadWeapon"/>
+        <melee id="2444" function="internalLoadWeapon"/>
+        <melee id="2453" function="internalLoadWeapon"/>
+        <melee id="2421" function="internalLoadWeapon"/>
+</weapons>

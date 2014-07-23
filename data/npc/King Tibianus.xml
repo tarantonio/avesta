@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<npc name="King Tibianus" script="king.lua" walkinterval="2000" floorchange="0" idleinterval="30">
+	<health now="100" max="100"/>
+	<look type="130" head="21" body="87" legs="107" feet="95"/>
+</npc>
+

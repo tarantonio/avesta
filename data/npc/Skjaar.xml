@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<npc name="Skjaar" script="skjaar.lua" walkinterval="2000" floorchange="0" idleinterval="30">
+	<health now="100" max="100"/>
+	<look type="9"/>
+</npc>
